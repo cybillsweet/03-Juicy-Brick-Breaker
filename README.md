@@ -2,7 +2,8 @@
 # Juicy Brick Breaker
 Taking a basic brick-breaker game and implementing  "juicy" effects to it. October 2022
 
-Taking a basic brick-breaker game and implementing  "juicy" effects to it to better it's performance and overall make it more enjoyable to play.
+#dESCRIPTION
+implementing  "juicy" effects to it to better it's performance and overall make it more enjoyable to play.
 
 ## Implementation
 Music and Sound
